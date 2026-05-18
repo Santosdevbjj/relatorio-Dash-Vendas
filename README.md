@@ -143,11 +143,6 @@ Este projeto é o ponto de partida. Os demais repositórios do portfólio docume
 2. Visualize a apresentação final em `RelatoDashVendas.pptx`
 3. Consulte a base de dados original em `Financial Sample (3).xlsx`
 
----
-
-## 🧾 Créditos
-
-Base de dados **Financial Sample** fornecida por [julianazanelatto/powerbianalyst](https://github.com/julianazanelatto/powerbianalyst).
 
 ---
 
